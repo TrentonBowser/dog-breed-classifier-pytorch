@@ -1,2 +1,3 @@
 # dog-breed-classifier-pytorch
-This repository contains a project I completed using PyTorch in the language Python. First, I built a full neural network containing convolutional and fully connected linear layers to classify the breed of a dog given an image as input. This  
+---
+This repository contains a project I completed using PyTorch in the language Python. First, I built a full neural network containing convolutional and fully connected linear layers to classify the breed of a dog given an image as input. This was not as successful as I would have liked with an accuracy of only 11%, so I implemented transfer learning. Using the pretrained VGG16 image classification model, I reworked and trained the fully connected linear layers to give the network the number of outputs desired. After training for 20 epochs, I had an accuracy of 62%.
