@@ -728,6 +728,3 @@ for file in np.hstack((computer_files[:6])):
 
 
 # As you can see, the algorithms are not perfect, but with more training could reach a higher accuracy.
-
-# ---
-# The pretrained models are included in the GitHub Repository if you are interested in trying them out yourself!
