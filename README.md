@@ -7,3 +7,8 @@ This repository contains a project I completed using PyTorch in the language Pyt
 The code requires the following packages: numpy, glob from glob, matplotlib, cv2, tqdm from tqdm, torch, torchvision, Image from PIL, os, and ImageFile from PIL.
 
 The Jupyter notebook or Python file can be donloaded and run in an environment with the installed packages. The easiest way to set up and run the code in an environment is using [Anaconda](https://www.anaconda.com/distribution/). Anaconda is a free, open-source platorm to manage libraries, dependencies, and environments.
+
+---
+
+#### Note
+This project is part of the Udacity Deep Learning Nanodegree.
